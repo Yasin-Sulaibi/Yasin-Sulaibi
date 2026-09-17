@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yasin, an undergraduate student at the Polytechnic University of Timișoara, Romania, studying Electronics, Telecommunications and Information Technology.
+I am Yasin Sulaibi, an undergraduate student at the Polytechnic University of Timișoara, Romania, studying Electronics, Telecommunications and Information Technology.
 
 My main objective is to improve my programming skills and create amazing projects.
 
