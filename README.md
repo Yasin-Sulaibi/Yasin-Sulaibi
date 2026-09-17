@@ -19,7 +19,7 @@ I am Yasin Sulaibi, an undergraduate student at the Polytechnic University of Ti
 
 My main objective is to improve my programming skills and create amazing projects.
 
-I have basic knowledge of C programming language, and built my first project called Simple Contact Entry from Coddy's platform.
+I have a basic knowledge of the C programming language and built my first project, called **Simple Contact Entry**, on the Coddy platform.
 
 I am enthusiast to build projects, connect with other developers globally striving to improve my skills and explore other programming languages.
 
