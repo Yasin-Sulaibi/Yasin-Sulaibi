@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Yasin, an undergraduate student at the Polytechnic University of Timișoara, Romania, studying Electronics, Telecommunications and Information Technology.
+
+My main objective is to improve my programming skills and create amazing projects.
+
+I have basic knowledge of C programming language, and built my first project called Simple Contact Entry from Coddy's platform.
+
+I am enthusiast to build projects, connect with other developers globally striving to improve my skills and explore other programming languages.
+
+**How to reach me:**
+1. Email: yasinsulaibi27@gmail.com
+2. Linkedin: https://www.linkedin.com/in/yasin-sulaibi/
